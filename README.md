@@ -1,6 +1,6 @@
-# neo_old_movies
+# Netflix_movies
 
-A new Old Movies Project
+## A new public domin Movies Project With Netflix UI
 
 ## Getting Started
 
