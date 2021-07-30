@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1001633182707",
+    "project_id": "old-movies-84543",
+    "storage_bucket": "old-movies-84543.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001633182707:android:9f68cf0d3e536b8cd61886",
+        "android_client_info": {
+          "package_name": "com.neomomovies.neo_old_movies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001633182707-ouatnmhl6rnfeeno6p0s0mcgrmpbektt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuNjecCobEVoP93AikP-5K9XAWrm6Fv2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001633182707-ouatnmhl6rnfeeno6p0s0mcgrmpbektt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
