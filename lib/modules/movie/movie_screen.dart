@@ -94,7 +94,7 @@ class MovieScreen extends StatelessWidget {
                               crossAxisAlignment: CrossAxisAlignment.center,
                               children: [
                                 Container(
-                                  padding: EdgeInsets.symmetric(
+                                  padding: const EdgeInsets.symmetric(
                                       vertical: 3, horizontal: 2),
                                   decoration: BoxDecoration(
                                       color: Colors.red[900],
