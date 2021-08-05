@@ -30,12 +30,11 @@ void main() async {
     if (loginModel == null) return UserNavigate();
     return LayoutScreen();
   }
-
   runApp(MyApp(initialWidget()));
 }
 
 class MyApp extends StatelessWidget {
-  late Widget initialWidget;
+  final Widget initialWidget;
   MyApp(this.initialWidget);
   @override
   Widget build(BuildContext context) {
