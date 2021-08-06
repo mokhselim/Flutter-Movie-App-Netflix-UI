@@ -4,9 +4,8 @@
 
 ## Getting Started
 
-[<img src="https://raw.githubusercontent.com/aritraroy/social-icons/master/linkedin-icon.png" />](https://www.linkedin.com/in/mohamed-khaled-selim/)
+[<img src="https://raw.githubusercontent.com/aritraroy/social-icons/master/linkedin-icon.png" height="100em"/>](https://www.linkedin.com/in/mohamed-khaled-selim/)
 
-### [My Account](https://www.linkedin.com/in/mohamed-khaled-selim/)
 ### [GooglePlay](https://play.google.com/store/apps/details?id=com.neomomovies.neo_old_movies) 🥇
 
 https://play.google.com/store/apps/details?id=com.neomomovies.neo_old_movies
