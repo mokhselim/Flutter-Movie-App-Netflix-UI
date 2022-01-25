@@ -1,5 +1,4 @@
 # Netflix_movies
-![](https://komarev.com/ghpvc/?username=mokhselim&style=flat-square)
 
 ## A new public domin Movies Project With Netflix UI
 
